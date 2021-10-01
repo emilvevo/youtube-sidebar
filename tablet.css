@@ -1,0 +1,11 @@
+.menu-items span {
+    display: none;
+}
+
+.menu-items div {
+    justify-content: center;
+}
+
+.menu-items h6 {
+    text-align: center;
+}

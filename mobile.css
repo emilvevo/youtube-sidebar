@@ -1,0 +1,11 @@
+.menu .logo-container span {
+    display: none;
+}
+
+.menu-items h6 {
+    display: none;
+}
+
+.menu .logo-container img {
+    align-self: center;
+}
